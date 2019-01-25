@@ -5,6 +5,5 @@ class Song < ActiveRecord::Base
 
   def released?
     released
-    # == true
   end
 end
